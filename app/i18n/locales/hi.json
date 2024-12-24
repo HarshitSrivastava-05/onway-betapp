@@ -1,0 +1,34 @@
+{
+  "common": {
+    "items": "आइटम",
+    "viewAll": "सभी देखें",
+    "search": "खोजें",
+    "searchPlaceholder": "उत्पाद खोजें...",
+    "addToCart": "कार्ट में डालें",
+    "inStock": "स्टॉक में",
+    "outOfStock": "स्टॉक में नहीं है",
+    "deliveryTime": "10 मिनट में डिलीवरी"
+  },
+  "nav": {
+    "home": "होम",
+    "products": "उत्पाद",
+    "categories": "श्रेणियाँ",
+    "offers": "ऑफर",
+    "cart": "कार्ट",
+    "signIn": "साइन इन करें"
+  },
+  "categories": {
+    "Groceries": "किराना",
+    "Fresh Produce": "ताजी सब्जियां",
+    "Dairy & Eggs": "डेयरी और अंडे",
+    "Bakery": "बेकरी",
+    "Beverages": "पेय पदार्थ",
+    "Snacks": "स्नैक्स"
+  },
+  "hero": {
+    "title": "तेज़ स्थानीय",
+    "subtitle": "डिलीवरी",
+    "description": "अपना सामान मिनटों में प्राप्त करें, घंटों में नहीं",
+    "cta": "अभी ऑर्डर करें"
+  }
+}

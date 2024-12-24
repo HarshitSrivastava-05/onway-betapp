@@ -1,0 +1,34 @@
+{
+  "common": {
+    "items": "items",
+    "viewAll": "View All",
+    "search": "Search",
+    "searchPlaceholder": "Search for products...",
+    "addToCart": "Add to Cart",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "deliveryTime": "Delivery in 10 minutes"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "offers": "Offers",
+    "cart": "Cart",
+    "signIn": "Sign In"
+  },
+  "categories": {
+    "Groceries": "Groceries",
+    "Fresh Produce": "Fresh Produce",
+    "Dairy & Eggs": "Dairy & Eggs", 
+    "Bakery": "Bakery",
+    "Beverages": "Beverages",
+    "Snacks": "Snacks"
+  },
+  "hero": {
+    "title": "Fast Local",
+    "subtitle": "Delivery",
+    "description": "Get your essentials delivered in minutes, not hours",
+    "cta": "Order Now"
+  }
+}
